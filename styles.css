@@ -10,11 +10,7 @@
       justify-content: space-between;
       align-items: center;
     }
-    .logo {
-      font-weight: bold;
-      font-size: 20px;
-      color: #2e7d32;
-    }
+    
     .hero {
       padding: 80px 20px;
       text-align: center;
