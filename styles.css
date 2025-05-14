@@ -11,9 +11,11 @@
       align-items: center;
     }
 
-    .logo {
-      width: 20px;
-    }
+  img{
+width: 20px;
+  
+  }
+
     .hero {
       padding: 80px 20px;
       text-align: center;
