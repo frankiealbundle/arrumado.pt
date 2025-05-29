@@ -18,8 +18,15 @@ header {
 }
 
 .logo img {
-  width: 100px;
+  width: 60px; /* maior logo */
+  height: auto;
 }
+
+footer img {
+  width: 150px; /* aumenta o widget da Zaask */
+  height: auto;
+}
+
 
 .hero {
   padding: 80px 20px;
